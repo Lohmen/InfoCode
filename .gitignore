@@ -17,6 +17,9 @@ out/
 .gradle/
 build/
 
+# Cartella con i file interpretati da Cordova
+platforms/
+
 # Local configuration file (sdk path, etc)
 local.properties
 
